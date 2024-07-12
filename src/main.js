@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import '../src/components/jsmpeg.min.js'
 
 Vue.config.productionTip = false
 
